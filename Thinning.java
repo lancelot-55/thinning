@@ -1,8 +1,8 @@
 /* 
    --画像処理演習課題--
-   所属: 情報学群2年
-   学籍番号: 1190304
-   氏名: 氏原友梨亜
+   所属: 
+   学籍番号: 
+   氏名: 
 */
 import java.io.*;
 import java.awt.image.BufferedImage;
